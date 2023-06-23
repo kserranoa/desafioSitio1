@@ -1,0 +1,4 @@
+,symbol,interval,currency,exchange_timezone,exchange,mic_code,type,indicator
+name,AAPL,1day,USD,America/New_York,NASDAQ,XNGS,Common Stock,EMA - Exponential Moving Average
+series_type,AAPL,1day,USD,America/New_York,NASDAQ,XNGS,Common Stock,close
+time_period,AAPL,1day,USD,America/New_York,NASDAQ,XNGS,Common Stock,9
